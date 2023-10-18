@@ -1,5 +1,5 @@
 # Sams_Store_Data_Analysis_using_Excel
-Sam's store team needs a dynamic dashboard to know their customers and grow their sales.
+Sam's store team needs a interactive dashboard to know their customers and grow their sales.
 
 # Objective
 Sams store wants to create an annual sales report for 2022. So that, Sams can understand their customers and grow more sales in 2023.
@@ -20,17 +20,11 @@ Microsoft Excel
 # Prerequisites:
 Data cleaning, data processing, Pivot table, Pivot chart, Pivot formatting, Slicer, Slicer formatting, Report creation
 
-Raw source data file
-[AWS cloud practitioner](https://www.credly.com/badges/bf779e21-7186-482c-8a65-87620c498192)
-
-https://github.com/Adinarayana7008/Data_Science_Projects/blob/main/Excel_Projects/Sams%20Store%20Data%20Analysis%20Project/Sams%20Store%20Data%20Analysis_Raw%20Data.xlsx
-Dashboard
-https://github.com/Adinarayana7008/Data_Science_Projects/blob/main/Excel_Projects/Sams%20Store%20Data%20Analysis%20Project/Sams%20Store%20Data%20Analysis%20Dashboard%20screenshot.PNG
-Outcome
-https://github.com/Adinarayana7008/Data_Science_Projects/blob/main/Excel_Projects/Sams%20Store%20Data%20Analysis%20Project/Sams%20Store%20Data%20Analysis%20Dashboard.xlsx
+# Data file
+[Sams Store Data Analysis_Raw Data](https://github.com/Adinarayana7008/Sams_Store_Data_Analysis_using_Excel/blob/main/Sams%20Store%20Data%20Analysis_Raw%20Data.xlsx)
 
 # Steps Followed:
-These are some steps that I followed during the project:
+#### These are some steps that I followed during the project
 1. Data Cleaning: In this step includes removing inconsistencies in data, errors, and duplicates and ensuring that the data with which I worked is accurate and reliable for further analysis.
 
 2. Data Processing: Creating some new columns that involved organizing, sorting, and filtering the data to extract meaningful insights.
@@ -41,6 +35,10 @@ These are some steps that I followed during the project:
 
 5. Dashboard Making: Finally, I built a dashboard in Excel by inserting slicers that allow users to interact with the data.
 
+# Dashboard screenshot
+
+<img width="913" alt="Sams Store Data Analysis Dashboard screenshot" src="https://github.com/Adinarayana7008/Sams_Store_Data_Analysis_using_Excel/assets/68777627/6f0895c3-fe2c-497b-9271-0be22eba44c0">
+
 # Insights
 1.	Women are more likely to buy compared to men (~65%)
 2.	Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
@@ -48,7 +46,10 @@ These are some steps that I followed during the project:
 4.	Amazon, Flipkart and Myntra channels are max contributing (~80%)
    
 **Final Conclusion to improve Sams store sales**
-Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
+Target **women** customers of age group (**30-49** yrs) living in **Maharashtra, Karnataka and Uttar Pradesh** by showing ads/offers/coupons available on **Amazon, Flipkart and Myntra**
+
+# Project
+[Project destination_location](https://github.com/Adinarayana7008/Sams_Store_Data_Analysis_using_Excel)
 
 # Reference
 The project I replicated was inspired by Rishabh Mishra's YouTube playlist.
