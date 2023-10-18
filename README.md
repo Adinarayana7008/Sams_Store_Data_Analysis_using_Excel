@@ -25,7 +25,7 @@ Data cleaning, data processing, Pivot table, Pivot chart, Pivot formatting, Slic
 
 ### Steps Followed:
 #### These are some steps that I followed during the project
-1. Data Cleaning: In this step includes removing inconsistencies in data, errors, and duplicates and ensuring that the data with which I worked is accurate and reliable for further analysis.
+1. Data Cleaning: In this step includes removing inconsistencies in data, errors, duplicates, and ensuring that the data with which I worked is accurate and reliable for further analysis.
 
 2. Data Processing: Creating some new columns that involved organizing, sorting, and filtering the data to extract meaningful insights.
 
